@@ -1,3 +1,3 @@
-# task7
-kodecamp task 7
+# landing page
+Website
 Landing page 
